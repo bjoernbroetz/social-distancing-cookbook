@@ -1,4 +1,4 @@
-# social-distancing-cookbook
+# Social distancing cookbook
 
 Collection of recipes of things we would like to share but can not due to social distancing.
 
