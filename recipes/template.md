@@ -2,7 +2,7 @@
 
 This dish will be fast to make and helps you to impress your colleagues in the coffee break.
 
-![Test Image](/recipes/_figures/_test.jpg)
+![Test Image](figures/piCake.jpg)
 
 ## Ingredients
 

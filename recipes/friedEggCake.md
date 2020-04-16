@@ -2,7 +2,7 @@
 
 This cake will bring up the mood of the kids in *home office*.
 
-![Test Image](/recipes/_figures/friedEggCake.jpg)
+![Image of the final cake](figures/friedEggCake.jpg)
 
 ## Ingredients
 

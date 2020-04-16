@@ -2,7 +2,7 @@
 
 For sunny days alone at your balcony.
 
-![Test Image](/recipes/_figures/BananaChoclateIceCream.jpg)
+![Test Image](figures/BananaChoclateIceCream.jpg)
 
 ## Ingredients
 
