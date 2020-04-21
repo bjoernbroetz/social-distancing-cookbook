@@ -6,6 +6,7 @@ Collection of recipes of things we would like to share but can not due to social
 
 * [Banana-Choclate Ice Cream](recipes/bananaChocolateIceCream.md)
 * [Fried Egg Cake](recipes/friedEggCake.md)
+* [Humus](recipes/humus.md)
 
 ## Contribution
 
