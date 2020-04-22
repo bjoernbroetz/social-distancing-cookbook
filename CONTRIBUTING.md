@@ -2,7 +2,7 @@
 
 ## Become a contributor
 
-Open an issue if you want yourself to be added to the contributors.
+Open an issue if you want yourself to be added to the contributors or simply make a fork and contribute from there.
 
 ## Technical
 
