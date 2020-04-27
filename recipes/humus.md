@@ -2,6 +2,8 @@
 
 This dish will get you through another day in social isolation.
 
+![Humus](figures/humus.jpeg)
+
 ## Ingredients
 
 - 1 Tin of chick peas
